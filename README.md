@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá!
+### Meu nome é Marcelo, e tenho 18 anos!
 
-<!--
-**seriousfreezing/seriousfreezing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Autalmente sou:
+- Programador 
+- Designer Gráfico
+- Desenvolvedor de Jogos
+- Criador de Conteúdo
+- UX/UI Designer
+- E no tempo livre, jogo um pouco! xD
+## Caso, queira entrar em contato comigo:
+- **E-mail:** seriousfreezing@gmail.com
+- **Discord:** seriousfreezing
+- [**Whatsapp**](https://api.whatsapp.com/send?l=pt-BR&phone=85994115037)
